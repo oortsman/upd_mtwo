@@ -1,4 +1,4 @@
-[latest release](https://github.com/oortsman/upd_mtwo/releases/download/v2026.11.16/m2_server-v2026.11.16.zip)
+[latest release](https://github.com/oortsman/upd_mtwo/releases/latest/download/m2_server.zip)
 
 ## instructions
 
@@ -18,4 +18,14 @@ continue, wait for the mod to finish editing game files
 
 decide whether you want to download 2 new radio stations (takes a little while to graft them onto your game)
 
-if you have trouble try backing up your mafia saves to a different folder + running RemoveSaves.exe in pc/, then make sure to change your display settings in video. any buggy text etc likely a result of low disk space
+## languages
+
+english, czech, polish, german, ukranian, italian, french, spanish, russian
+
+## debugging
+
+try backing up your mafia saves to a different folder + running RemoveSaves.exe in pc/
+
+then make sure to change your display settings in video
+
+faulty text can come from low disk space (<3GB) when installing
