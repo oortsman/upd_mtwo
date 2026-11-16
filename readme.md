@@ -17,3 +17,5 @@ choose player name
 continue, wait for the mod to finish editing game files
 
 decide whether you want to download 2 new radio stations (takes a little while to graft them onto your game)
+
+if you have trouble try backing up your mafia saves to a different folder + running RemoveSaves.exe in pc/, then make sure to change your display settings in video. any buggy text etc likely a result of low disk space
